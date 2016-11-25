@@ -75,7 +75,7 @@ body {
 
 #seconds {
   position: absolute;
-  height: 200px;
+  height: 160px;
   width: 2px;
   left: 0; right: 0; bottom: 160px; top: 0;
   margin: auto;
